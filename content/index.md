@@ -1,9 +1,9 @@
 ---
 title: Welcome page
 ---
- Welcome to my site! I am exploring digital tools, design, and technology shape the way we create, communicate, and express ourselves online. 
-
-## The index page
+ Welcome to my site! I am exploring digital tools, design, and technology shape the way we create, communicate, and express ourselves. 
+ 
+ ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
