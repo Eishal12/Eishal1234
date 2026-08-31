@@ -1,0 +1,1 @@
+Hello i am a student learning how to use Github and obsidian to manage projects.

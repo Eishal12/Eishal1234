@@ -1,7 +1,7 @@
 ---
 title: Welcome page
 ---
-Hello Welcome to my site! I am exploring digital tools, design, and technology shape the way we create, communicate, and express ourselves online.
+ Welcome to my site! I am exploring digital tools, design, and technology shape the way we create, communicate, and express ourselves online.
 
 ## The index page
 
