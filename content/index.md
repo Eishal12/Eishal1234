@@ -1,6 +1,8 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Welcome page
 ---
+Hello Welcome to my site! I am exploring digital tools, design, and technology shape the way we create, communicate, and express ourselves online.
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
